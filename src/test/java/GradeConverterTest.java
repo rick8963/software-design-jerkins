@@ -8,7 +8,7 @@ public class GradeConverterTest {
     GradeConverter converter = new GradeConverter();
 
     @Before
-    public void setUp() throws Exception {
+    public void setUp() throws Exception {//
     }
 
     @Test
